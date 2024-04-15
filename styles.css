@@ -1,0 +1,38 @@
+* {
+    background-color: bisque;
+}
+
+p {
+    text-align: justify;
+}
+
+.container-list-recipes {
+    text-align: center;
+}
+
+.container-list-recipes li {
+    padding-bottom: 10px;
+    list-style-type: none;
+}
+
+.title-section {
+    text-align: center;
+}
+
+.title-section img {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    font-family: Courier, sans-serif;
+    background-color: #9797e7;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+img {
+    height: auto;
+    width: 150px;
+}
